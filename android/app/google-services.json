@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926897544964",
+    "project_id": "izdb-haprog",
+    "storage_bucket": "izdb-haprog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926897544964:android:ce495eecf632e4cf143a51",
+        "android_client_info": {
+          "package_name": "com.example.iosizdbmaterial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926897544964-k3t92obrvpm8t6ogt2nf3t7q98s04dh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaY4uhpGzWk-1ep6dfz_aD920UbZKYnRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926897544964-k3t92obrvpm8t6ogt2nf3t7q98s04dh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926897544964-v9lssj33fb4klh2errv1t16m544cc9iu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iosizdbmaterial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
